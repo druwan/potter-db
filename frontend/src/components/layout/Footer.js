@@ -37,8 +37,8 @@ const Footer = () => {
           link: "/movies",
         },
         {
-          name: "Potions",
-          link: "/potions",
+          name: "Spells",
+          link: "/spells",
         },
       ],
     },
